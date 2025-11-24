@@ -69,6 +69,10 @@ SOLVED SUDOKU IS:
 - Backtracking to Solve simple and complex 4x4 Sudokus.
 - Easy to use keyboard inputs for inputting problems and getting solution.
 
+## Technologies/tools used
+
+- Python Interpreter
+- Python Library (Numpy)
 
 ## Prerequisites
 
